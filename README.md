@@ -56,4 +56,10 @@ python leetcode/001-two-sum/solution.py
 
 ---
 
+## Automated Updates
+
+New solutions are added automatically by [`daily-dsa.ps1`](https://github.com/nitinkumar079/dsa-solution) running on Windows Task Scheduler: every day it pulls the latest problems from [hogan-tech/leetcode-solution](https://github.com/hogan-tech/leetcode-solution) (MIT), picks the next 2-3 unsolved ones (easy first), and commits them here.
+
+> **Attribution:** Solutions referenced under `leetcode/<number>-*/` may be adapted from [hogan-tech/leetcode-solution](https://github.com/hogan-tech/leetcode-solution), licensed under the [MIT License](https://github.com/hogan-tech/leetcode-solution/blob/main/LICENSE). Each problem folder links to the original source.
+
 Solutions are for learning purposes. Try solving each problem yourself before looking here.
