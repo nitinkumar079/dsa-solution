@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/language-C%2B%2B%20%7C%20Python-blue)
 ![Platform](https://img.shields.io/badge/platform-LeetCode-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Problems Solved](https://img.shields.io/badge/problems%20solved-16-brightgreen)
+![Problems Solved](https://img.shields.io/badge/problems%20solved-19-brightgreen)
 
 Curated solutions to Data Structures & Algorithms problems from [LeetCode](https://leetcode.com), implemented in **C++** and **Python**. Each solution includes a clean approach, complexity analysis, and a runnable driver (`main`) for quick local testing.
 
@@ -27,6 +27,9 @@ Curated solutions to Data Structures & Algorithms problems from [LeetCode](https
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | Sum formula | O(n) | O(1) | [solution.cpp](leetcode/268-missing-number/solution.cpp) | [solution.py](leetcode/268-missing-number/solution.py) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | Two pointers / in-place | O(n) | O(1) | [solution.cpp](leetcode/283-move-zeroes/solution.cpp) | [solution.py](leetcode/283-move-zeroes/solution.py) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Bucket sort | O(n) | O(n) | [solution.cpp](leetcode/347-top-k-frequent-elements/solution.cpp) | [solution.py](leetcode/347-top-k-frequent-elements/solution.py) |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | Fibonacci / DP | O(n) | O(1) | [solution.cpp](leetcode/070-climbing-stairs/solution.cpp) | [solution.py](leetcode/070-climbing-stairs/solution.py) |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | DFS recursion | O(n) | O(h) | [solution.cpp](leetcode/104-maximum-depth-of-binary-tree/solution.cpp) | [solution.py](leetcode/104-maximum-depth-of-binary-tree/solution.py) |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | Floyd's cycle detection | O(n) | O(1) | [solution.cpp](leetcode/141-linked-list-cycle/solution.cpp) | [solution.py](leetcode/141-linked-list-cycle/solution.py) |
 
 ## Repository Structure
 
@@ -52,7 +55,7 @@ python leetcode/001-two-sum/solution.py
 
 ## Progress
 
-![Progress](https://progress-bar.dev/16/?scale=500&title=solved&width=400)
+![Progress](https://progress-bar.dev/19/?scale=500&title=solved&width=400)
 
 ---
 
