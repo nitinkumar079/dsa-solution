@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/language-C%2B%2B%20%7C%20Python-blue)
 ![Platform](https://img.shields.io/badge/platform-LeetCode-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Problems Solved](https://img.shields.io/badge/problems%20solved-19-brightgreen)
+![Problems Solved](https://img.shields.io/badge/problems%20solved-22-brightgreen)
 
 Curated solutions to Data Structures & Algorithms problems from [LeetCode](https://leetcode.com), implemented in **C++** and **Python**. Each solution includes a clean approach, complexity analysis, and a runnable driver (`main`) for quick local testing.
 
@@ -12,9 +12,12 @@ Curated solutions to Data Structures & Algorithms problems from [LeetCode](https
 | # | Problem | Difficulty | Approach | Time | Space | C++ | Python |
 |---|---------|------------|----------|------|-------|-----|--------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Hash map | O(n) | O(n) | [solution.cpp](leetcode/001-two-sum/solution.cpp) | [solution.py](leetcode/001-two-sum/solution.py) |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Reverse number | O(log n) | O(1) | [solution.cpp](leetcode/009-palindrome-number/solution.cpp) | [solution.py](leetcode/009-palindrome-number/solution.py) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Stack | O(n) | O(n) | [solution.cpp](leetcode/020-valid-parentheses/solution.cpp) | [solution.py](leetcode/020-valid-parentheses/solution.py) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | Two pointers | O(n) | O(1) | [solution.cpp](leetcode/026-remove-duplicates-from-sorted-array/solution.cpp) | [solution.py](leetcode/026-remove-duplicates-from-sorted-array/solution.py) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | Kadane's algorithm | O(n) | O(1) | [solution.cpp](leetcode/053-maximum-subarray/solution.cpp) | [solution.py](leetcode/053-maximum-subarray/solution.py) |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | Binary search | O(log n) | O(1) | [solution.cpp](leetcode/035-search-insert-position/solution.cpp) | [solution.py](leetcode/035-search-insert-position/solution.py) |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | Reverse traversal | O(n) | O(1) | [solution.cpp](leetcode/066-plus-one/solution.cpp) | [solution.py](leetcode/066-plus-one/solution.py) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | Two pointers | O(n) | O(1) | [solution.cpp](leetcode/027-remove-element/solution.cpp) | [solution.py](leetcode/027-remove-element/solution.py) |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Hash map with sorted key | O(n*k*logk) | O(n*k) | [solution.cpp](leetcode/049-group-anagrams/solution.cpp) | [solution.py](leetcode/049-group-anagrams/solution.py) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Single pass min tracking | O(n) | O(1) | [solution.cpp](leetcode/121-best-time-to-buy-and-sell-stock/solution.cpp) | [solution.py](leetcode/121-best-time-to-buy-and-sell-stock/solution.py) |
@@ -55,7 +58,7 @@ python leetcode/001-two-sum/solution.py
 
 ## Progress
 
-![Progress](https://progress-bar.dev/19/?scale=500&title=solved&width=400)
+![Progress](https://progress-bar.dev/22/?scale=500&title=solved&width=400)
 
 ---
 
