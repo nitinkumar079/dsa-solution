@@ -1,0 +1,26 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+class Solution {
+public:
+    vector<vector<int>> generate(int numRows) {
+        vector<vector<int>> tri(numRows);
+        for (int i = 0; i < numRows; i++) {
+            tri[i].resize(i + 1, 1);
+            for (int j = 1; j < i; j++) {
+                tri[i][j] = tri[i - 1][j - 1] + tri[i - 1][j];
+            }
+        }
+        return tri;
+    }
+};
+
+int main() {
+    Solution sol;
+    auto tri = sol.generate(5);
+    for (auto& row : tri) {
+        for (int v : row) cout << v << " ";
+        cout << endl;
+    }
+    return 0;
+}

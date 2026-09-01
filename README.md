@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/language-C%2B%2B%20%7C%20Python-blue)
 ![Platform](https://img.shields.io/badge/platform-LeetCode-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Problems Solved](https://img.shields.io/badge/problems%20solved-23-brightgreen)
+![Problems Solved](https://img.shields.io/badge/problems%20solved-27-brightgreen)
 
 Curated solutions to Data Structures & Algorithms problems from [LeetCode](https://leetcode.com), implemented in **C++** and **Python**. Each solution includes a clean approach, complexity analysis, and a runnable driver (`main`) for quick local testing.
 
@@ -34,6 +34,10 @@ Curated solutions to Data Structures & Algorithms problems from [LeetCode](https
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | Fibonacci / DP | O(n) | O(1) | [solution.cpp](leetcode/070-climbing-stairs/solution.cpp) | [solution.py](leetcode/070-climbing-stairs/solution.py) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | DFS recursion | O(n) | O(h) | [solution.cpp](leetcode/104-maximum-depth-of-binary-tree/solution.cpp) | [solution.py](leetcode/104-maximum-depth-of-binary-tree/solution.py) |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | Floyd's cycle detection | O(n) | O(1) | [solution.cpp](leetcode/141-linked-list-cycle/solution.cpp) | [solution.py](leetcode/141-linked-list-cycle/solution.py) |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | Reverse traversal | O(n) | O(1) | [solution.cpp](leetcode/058-length-of-last-word/solution.cpp) | [solution.py](leetcode/058-length-of-last-word/solution.py) |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | Single pass | O(n) | O(1) | [solution.cpp](leetcode/083-remove-duplicates-from-sorted-list/solution.cpp) | [solution.py](leetcode/083-remove-duplicates-from-sorted-list/solution.py) |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | DP / simulation | O(n²) | O(1) | [solution.cpp](leetcode/118-pascals-triangle/solution.cpp) | [solution.py](leetcode/118-pascals-triangle/solution.py) |
+| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | Bit manipulation | O(1) | O(1) | [solution.cpp](leetcode/231-power-of-two/solution.cpp) | [solution.py](leetcode/231-power-of-two/solution.py) |
 
 ## Repository Structure
 
@@ -59,7 +63,7 @@ python leetcode/001-two-sum/solution.py
 
 ## Progress
 
-![Progress](https://progress-bar.dev/23/?scale=500&title=solved&width=400)
+![Progress](https://progress-bar.dev/27/?scale=500&title=solved&width=400)
 
 ---
 
