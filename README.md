@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/language-C%2B%2B%20%7C%20Python-blue)
 ![Platform](https://img.shields.io/badge/platform-LeetCode-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Problems Solved](https://img.shields.io/badge/problems%20solved-34-brightgreen)
+![Problems Solved](https://img.shields.io/badge/problems%20solved-36-brightgreen)
 
 Curated solutions to Data Structures & Algorithms problems from [LeetCode](https://leetcode.com), implemented in **C++** and **Python**. Each solution includes a clean approach, complexity analysis, and a runnable driver (`main`) for quick local testing.
 
@@ -48,6 +48,8 @@ Curated solutions to Data Structures & Algorithms problems from [LeetCode](https
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | Single pass | O(n) | O(1) | [solution.cpp](leetcode/083-remove-duplicates-from-sorted-list/solution.cpp) | [solution.py](leetcode/083-remove-duplicates-from-sorted-list/solution.py) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | DP / simulation | O(n²) | O(1) | [solution.cpp](leetcode/118-pascals-triangle/solution.cpp) | [solution.py](leetcode/118-pascals-triangle/solution.py) |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | Bit manipulation | O(1) | O(1) | [solution.cpp](leetcode/231-power-of-two/solution.cpp) | [solution.py](leetcode/231-power-of-two/solution.py) |
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | Two pointers | O(n) | O(1) | [solution.cpp](leetcode/019-remove-nth-node-from-end-of-list/solution.cpp) | [solution.py](leetcode/019-remove-nth-node-from-end-of-list/solution.py) |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | DFS recursion | O(n) | O(h) | [solution.cpp](leetcode/100-same-tree/solution.cpp) | [solution.py](leetcode/100-same-tree/solution.py) |
 
 ## Repository Structure
 
