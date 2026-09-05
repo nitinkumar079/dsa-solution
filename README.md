@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/language-C%2B%2B%20%7C%20Python-blue)
 ![Platform](https://img.shields.io/badge/platform-LeetCode-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Problems Solved](https://img.shields.io/badge/problems%20solved-36-brightgreen)
+![Problems Solved](https://img.shields.io/badge/problems%20solved-38-brightgreen)
 
 Curated solutions to Data Structures & Algorithms problems from [LeetCode](https://leetcode.com), implemented in **C++** and **Python**. Each solution includes a clean approach, complexity analysis, and a runnable driver (`main`) for quick local testing.
 
@@ -50,6 +50,8 @@ Curated solutions to Data Structures & Algorithms problems from [LeetCode](https
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | Bit manipulation | O(1) | O(1) | [solution.cpp](leetcode/231-power-of-two/solution.cpp) | [solution.py](leetcode/231-power-of-two/solution.py) |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | Two pointers | O(n) | O(1) | [solution.cpp](leetcode/019-remove-nth-node-from-end-of-list/solution.cpp) | [solution.py](leetcode/019-remove-nth-node-from-end-of-list/solution.py) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | DFS recursion | O(n) | O(h) | [solution.cpp](leetcode/100-same-tree/solution.cpp) | [solution.py](leetcode/100-same-tree/solution.py) |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | Mirror DFS | O(n) | O(h) | [solution.cpp](leetcode/101-symmetric-tree/solution.cpp) | [solution.py](leetcode/101-symmetric-tree/solution.py) |
+| 108 | [Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | Recursive midpoint | O(n) | O(n) | [solution.cpp](leetcode/108-convert-sorted-array-to-bst/solution.cpp) | [solution.py](leetcode/108-convert-sorted-array-to-bst/solution.py) |
 
 ## Repository Structure
 
@@ -75,7 +77,7 @@ python leetcode/001-two-sum/solution.py
 
 ## Progress
 
-![Progress](https://progress-bar.dev/34/?scale=500&title=solved&width=400)
+![Progress](https://progress-bar.dev/36/?scale=500&title=solved&width=400)
 
 ---
 
